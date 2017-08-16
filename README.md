@@ -1,0 +1,2 @@
+# cp-hello-npm
+hello
